@@ -1,0 +1,66 @@
+
+.titulo-centralizado{
+
+    text-align: center;
+}
+
+p{
+
+    text-align: center;
+}
+
+
+body{
+
+           background-image: url("EDG.webp");
+}
+
+#fonte{
+
+    font-size: 25px;
+}
+
+
+
+#link{
+	font-size: 30px;
+
+}
+  
+#link ul{
+
+	list-style: none;
+	 padding: 0;
+ 
+ }
+
+ #link ul li{
+	display:inline;
+
+}
+
+#link ul li a{
+    display:inline;
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+padding: 20px;
+ display: inline-block;
+ transition: background .4s;
+
+}
+
+#link ul li a:hover{
+
+	background-color: rgb(182, 182, 182);
+  
+  }
+  
+a{
+  color:rgb(0, 0, 0);
+  
+}
+ 
+a:hover{
+          background-color: rgb(255, 0, 0);
+}
+
